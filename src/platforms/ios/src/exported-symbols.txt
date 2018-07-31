@@ -1,0 +1,10 @@
+__SCNVector3Make
+__SCNVector4Make
+__SCNMatrix4Translate
+__SCNVector3ToFloat3
+__SCNVector4ToFloat4
+__SCNMatrix4ToMat4
+__SCNVector3FromFloat3
+__SCNVector4FromFloat4
+__SCNMatrix4FromMat4
+

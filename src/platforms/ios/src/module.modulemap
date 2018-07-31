@@ -1,0 +1,4 @@
+module ARInlineFunctions {
+        umbrella header "ARInlineFunctions.h"
+        export *
+}
